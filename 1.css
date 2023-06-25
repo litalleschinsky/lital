@@ -1,0 +1,9 @@
+﻿body
+
+h2 {
+    color: black;
+    font-size: 20pt;
+    text-align: center;
+    background-image: url('background.png');
+    font-family :Guttman Yad Brush ;
+}
